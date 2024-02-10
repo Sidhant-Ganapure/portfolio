@@ -400,6 +400,12 @@ textarea {
     color: #fff;
 }
 
+input:focus,
+textarea:focus {
+    border: 1px solid gold;
+    outline: none;
+}
+
 textarea {
     height: 100px;
     resize: none;
