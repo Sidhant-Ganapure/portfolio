@@ -157,12 +157,12 @@ hr {
     padding: 20px;
     box-sizing: border-box;
     border: 3px solid greenyellow;
-    border-radius: 15px;
+    -o-border-radius: 15px;
     background-color: #fff;
     -webkit-border-radius: 15px;
     -moz-border-radius: 15px;
     -ms-border-radius: 15px;
-    -o-border-radius: 15px;
+    border-radius: 15px;
 }
 
 .about-me-content {
@@ -301,13 +301,13 @@ p {
     margin: 0px 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border: 3px solid yellowgreen;
-    border-radius: 5px;
+    -o-border-radius: 5px;
     overflow: hidden;
     padding: 15px;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     -ms-border-radius: 5px;
-    -o-border-radius: 5px;
+    border-radius: 5px;
 }
 
 .project:hover {
@@ -317,20 +317,20 @@ p {
 .project img {
     width: 100%;
     height: auto;
-    border-radius: 5px;
+    -o-border-radius: 5px;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     -ms-border-radius: 5px;
-    -o-border-radius: 5px;
+    border-radius: 5px;
 }
 
 .project img:hover {
     cursor: pointer;
-    transform: scale(1.05);
+    -o-transform: scale(1.05);
     -webkit-transform: scale(1.05);
     -moz-transform: scale(1.05);
     -ms-transform: scale(1.05);
-    -o-transform: scale(1.05);
+    transform: scale(1.05);
 }
 
 .project h3 {
@@ -530,12 +530,12 @@ button:hover {
         margin-top: 0px;
         width: 195px;
         height: 195px;
-        border-radius: 50%;
+        -o-border-radius: 50%;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         -webkit-border-radius: 50%;
         -moz-border-radius: 50%;
         -ms-border-radius: 50%;
-        -o-border-radius: 50%;
+        border-radius: 50%;
 }
 
     .right-section{
@@ -553,11 +553,11 @@ button:hover {
         background-color: #fff;
         padding: 10px;
         border: 2px solid greenyellow;
-        border-radius: 10px;
+        -o-border-radius: 10px;
         -webkit-border-radius: 10px;
         -moz-border-radius: 10px;
         -ms-border-radius: 10px;
-        -o-border-radius: 10px;
+        border-radius: 10px;
 }
 
     .right-section h2{
@@ -604,11 +604,11 @@ button:hover {
 
 .skill:hover {
     cursor: pointer;
-    transform: scale(1.04);
+    -o-transform: scale(1.04);
     -webkit-transform: scale(1.04);
     -moz-transform: scale(1.04);
     -ms-transform: scale(1.04);
-    -o-transform: scale(1.04);
+    transform: scale(1.04);
 }
 
 .skill img {
@@ -653,13 +653,13 @@ button:hover {
     background-color: #fff;
     margin: 5px 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 5px;
+    -o-border-radius: 5px;
     overflow: hidden;
     padding: 15px;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     -ms-border-radius: 5px;
-    -o-border-radius: 5px;
+    border-radius: 5px;
 }
 
 .project:hover {
@@ -669,20 +669,20 @@ button:hover {
 .project img {
     width: 100%;
     height: auto;
-    border-radius: 5px;
+    -o-border-radius: 5px;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     -ms-border-radius: 5px;
-    -o-border-radius: 5px;
+    border-radius: 5px;
 }
 
 .project img:hover {
     cursor: pointer;
-    transform: scale(1.05);
+    -o-transform: scale(1.05);
     -webkit-transform: scale(1.05);
     -moz-transform: scale(1.05);
     -ms-transform: scale(1.05);
-    -o-transform: scale(1.05);
+    transform: scale(1.05);
 }
 
 .project h3 {
